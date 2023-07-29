@@ -4,7 +4,7 @@
 
 Fach = "Kunst Arbeit"
 
-Seitenanzahl = "7"
+Seitenanzahl = "1"
 
 Lernzettel_Nummer = "11"
 
