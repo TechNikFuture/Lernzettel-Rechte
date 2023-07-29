@@ -6,7 +6,7 @@ Fach_1_Seitenanzahl = 1
 ///////////////////
 ///////////////////
 
-Fach_3_Fach = "Mathe Arbeit"
+Fach_2_Fach = "Mathe Arbeit"
 Fach_2_Rechte = "01, "
 Fach_2_Seitenanzahl = 1
 
