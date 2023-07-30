@@ -33,7 +33,7 @@ Guthaben_1 = "1,5"
 
 
 
-
+/*
   var script = document.createElement('script')
   script.src = `console.log("HI")`
 
@@ -58,3 +58,19 @@ var yourCodeToBeCalled = function(){
 //your code goes here
 }
 loadJS('/test.js', yourCodeToBeCalled, document.body);
+
+*/
+
+
+
+
+
+var script = document.createElement("script");
+  script.src = "/test.js";
+
+  script.onload = function () {
+    sayHello("Mohammad");
+  };
+
+  // append and execute script
+  document.documentElement.firstChild.appendChild(script);
