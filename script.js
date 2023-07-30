@@ -64,13 +64,8 @@ loadJS('/test.js', yourCodeToBeCalled, document.body);
 
 
 
-
-var script = document.createElement("script");
-  script.src = "/test.js";
-
-  script.onload = function () {
-    sayHello("Mohammad");
-  };
-
-  // append and execute script
-  document.documentElement.firstChild.appendChild(script);
+export function greet(name) {
+    return `Hello, ${name}`;
+  }
+  
+  export const message = "How you doing?";
