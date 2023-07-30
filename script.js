@@ -42,7 +42,7 @@ function loadScript( url, callback ) {
        document.head.appendChild(script); 
   }
   // call the function...
-  loadScript("Fach_1.js", function() {
+  loadScript("/Fach_1.js", function() {
     alert('script ready!'); 
   });
   
