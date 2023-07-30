@@ -64,7 +64,7 @@ höhe_6 = 20.5
 breite_7 = 130
 höhe_7 = 20.5
 
-imgData_1 ="HI"
+
 
 
 //Quere Seiten
