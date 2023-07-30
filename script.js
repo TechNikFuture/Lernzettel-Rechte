@@ -64,8 +64,9 @@ loadJS('/test.js', yourCodeToBeCalled, document.body);
 
 
 
-export function greet(name) {
-    return `Hello, ${name}`;
-  }
-  
-  export const message = "How you doing?";
+// Create new script element
+const script = document.createElement('script');
+script.src = '/path/to/js/file.js';
+
+// Append to the `head` element
+document.head.appendChild(script);
