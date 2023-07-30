@@ -66,7 +66,7 @@ loadJS('/test.js', yourCodeToBeCalled, document.body);
 
 // Create new script element
 const script = document.createElement('script');
-script.src = '/path/to/js/file.js';
+script.src = '/test.js';
 
 // Append to the `head` element
 document.head.appendChild(script);
