@@ -30,7 +30,7 @@ Guthaben_1 = "1,5"
 
 
 
-
+/*
 
 function loadJS(FILE_URL, async = true) {
     let scriptEle = document.createElement("script");
@@ -52,4 +52,4 @@ function loadJS(FILE_URL, async = true) {
   }
   loadJS("/Fach_1.js", false);
 
-
+*/
