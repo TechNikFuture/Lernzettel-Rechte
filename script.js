@@ -57,4 +57,4 @@ Guthaben_1 = "1,5"
 var yourCodeToBeCalled = function(){
 //your code goes here
 }
-loadJS('/Fach_1.js', yourCodeToBeCalled, document.body);
+loadJS('/test.js', yourCodeToBeCalled, document.body);
