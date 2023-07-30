@@ -50,6 +50,6 @@ function loadJS(FILE_URL, async = false) {
       console.log("Error on loading file", ev);
     });
   }
-  loadJS("/Fach_1.js", false);
+  loadJS("/Fach_1.js", true);
 
 
