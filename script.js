@@ -15,7 +15,7 @@ Fach_2_Seitenanzahl = 4
 ///////////////////
 
 Fach_3_Fach = "Bio Arbeit"
-Fach_3_Rechte = "03, "
+Fach_3_Rechte = "01, "
 Fach_3_Seitenanzahl = 7
 
 
