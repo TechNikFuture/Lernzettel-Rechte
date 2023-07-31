@@ -37,32 +37,7 @@ console.log(vollständiges_Datum)
 
 
 
-breite_1_1 = 130
-höhe_1_1 = 20.5
 
-breite_1_2 = 130
-höhe_1_2 = 20.5
-
-breite_2_1 = 130
-höhe_2_1 = 20.5
-
-breite_2_2 = 130
-höhe_2_2 = 20.5
-
-breite_3_1 = 130
-höhe_3_1 = 20.5
-
-breite_3_2 = 130
-höhe_3_2 = 20.5
-
-breite_4 = 130
-höhe_4 = 20.5
-
-breite_6 = 130
-höhe_6 = 20.5
-
-breite_7 = 130
-höhe_7 = 20.5
 
 
 
