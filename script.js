@@ -1,6 +1,6 @@
 Fach_1_Fach = "Kunst Arbeit"
 Fach_1_Rechte = "01, "
-Fach_1_Seitenanzahl = 7
+Fach_1_Seitenanzahl = 2
 
 
 ///////////////////
