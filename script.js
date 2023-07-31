@@ -24,9 +24,9 @@ Fach_3_Seitenanzahl = 7
 
 
 
-Guthaben_1 = "All inclusive für Klasse 10 1. Hj."
-Guthaben_2 = "0,5"
-Guthaben_3 = "1,5"
+Guthaben_1 = "All inclusive für <br> Klasse 10 1. Hj."
+Guthaben_2 = "0,5 €"
+Guthaben_3 = "1,5 €"
 
 
 Fach_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fach_1.js"></script>`
