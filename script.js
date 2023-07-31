@@ -27,6 +27,8 @@ Fach_3_Seitenanzahl = 7
 Guthaben_1 = "1,5"
 
 
-
+Fach_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fach_1.js"></script>`
+Fach_2_URL = `<script src="https://lernzettel-rechte.netlify.app/Fach_2.js"></script>`
+Fach_3_URL = `<script src="https://lernzettel-rechte.netlify.app/Fach_3.js"></script>`
 
 
