@@ -536,22 +536,22 @@ Lz_6_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 ///////////////////
 
 
-Lz_5_Fach = ""
+Lz_5_Fach = "Deutsch Arbeit: Generell"
 Lz_5_Jahrgang = 9
-Lz_5_Rechte = "root, "
-Lz_5_Seitenanzahl = 0
-Lz_5_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_5_Rechte = "root, 01, 03, 17, 02, 18, 04"
+Lz_5_Seitenanzahl = 3
+Lz_5_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deutsch/09 1. Hj. - Arbeit - Generell.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_4_Fach = ""
+Lz_4_Fach = "Politik Arbeit: Bundesregierung"
 Lz_4_Jahrgang = 9
-Lz_4_Rechte = "root, "
-Lz_4_Seitenanzahl = 0
-Lz_4_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_4_Rechte = "root, 03, 01, 02, 16, 15, 09"
+Lz_4_Seitenanzahl = 2
+Lz_4_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/03 - Politik/09 1. Hj. - Arbeit - Bundesregierung.js"></script>`
 
 
 ///////////////////
