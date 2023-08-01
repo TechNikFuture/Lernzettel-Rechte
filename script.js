@@ -531,7 +531,7 @@ Lz_5_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/"></scrip
 
 Lz_4_Fach = "Hi"
 Lz_4_Jahrgang = 10
-Lz_4_Rechte = "01, 02"
+Lz_4_Rechte = "01, "
 Lz_4_Seitenanzahl = 0
 Lz_4_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/"></script>`
 
