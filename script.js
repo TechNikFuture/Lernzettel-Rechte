@@ -580,8 +580,8 @@ Lz_2_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 ///////////////////
 
 
-Lz_1_Fach = "Geschichte <br> Novemberrevolution bis Inflation 1923"
+Lz_1_Fach = "Geschichte Arbeit: Novemberrevolution bis Inflation 1923"
 Lz_1_Jahrgang = 9
-Lz_1_Rechte = "root, 02"
+Lz_1_Rechte = "root, 02, 03, 04, 05, 07, 08, 09, "
 Lz_1_Seitenanzahl = 7
-Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/10 - Geschichte/09 1. Hj. - Arbeit - Novemberrevolution bis Inflation 1923.js"></script>`
+Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/10 - Geschichte/09 1. Hj. - Arbeit - Novemberrevolution bis Inflation 1923.js"></script>`
