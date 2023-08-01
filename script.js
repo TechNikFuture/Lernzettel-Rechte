@@ -25,15 +25,15 @@ Guthaben_20 /**/ = "0 €"
 
 
 
-
-Lz_1_Fach = "Kunst Arbeit"
-Lz_1_Rechte = "01, 02, 03, "
-Lz_1_Seitenanzahl = 2
-Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/04 - Kunst/09 2. Hj. - Porträtanalyse.js"></script>`
+Lz_3_Fach = "Bio Arbeit"
+Lz_3_Rechte = "01, 02, "
+Lz_3_Seitenanzahl = 7
+Lz_3_URL = `<script src="https://lernzettel-rechte.netlify.app/Lz_3.js"></script>`
 
 
 ///////////////////
 ///////////////////
+
 
 Lz_2_Fach = "Musik Arbeit"
 Lz_2_Rechte = "01, 02, 03, "
@@ -44,15 +44,14 @@ Lz_2_URL = `<script src="https://lernzettel-rechte.netlify.app/Lz_2.js"></script
 ///////////////////
 ///////////////////
 
-Lz_3_Fach = "Bio Arbeit"
-Lz_3_Rechte = "01, 02, 03, "
-Lz_3_Seitenanzahl = 7
-Lz_3_URL = `<script src="https://lernzettel-rechte.netlify.app/Lz_3.js"></script>`
+
+Lz_1_Fach = "Kunst Arbeit"
+Lz_1_Jahrgang = 9
+Lz_1_Rechte = "01, 02, 03, "
+Lz_1_Seitenanzahl = 2
+Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/04 - Kunst/09 2. Hj. - Porträtanalyse.js"></script>`
 
 
 ///////////////////
 ///////////////////
-
-
-
 
