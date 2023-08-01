@@ -492,9 +492,9 @@ Lz_10_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/"></scri
 ///////////////////
 
 
-Lz_9_Fach = "Bio Test"
+Lz_9_Fach = ""
 Lz_9_Jahrgang = 9
-Lz_9_Rechte = "02"
+Lz_9_Rechte = "root, "
 Lz_9_Seitenanzahl = 0
 Lz_9_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/"></script>`
 
@@ -580,15 +580,8 @@ Lz_2_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/"></scrip
 ///////////////////
 
 
-Lz_1_Fach = "d"
+Lz_1_Fach = ""
 Lz_1_Jahrgang = 9
-Lz_1_Rechte = "root, 02 "
+Lz_1_Rechte = "root, "
 Lz_1_Seitenanzahl = 0
 Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/"></script>`
-
-
-///////////////////
-///////////////////
-
-
-
