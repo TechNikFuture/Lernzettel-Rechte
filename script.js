@@ -558,22 +558,22 @@ Lz_4_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 ///////////////////
 
 
-Lz_3_Fach = ""
+Lz_3_Fach = "Physik Arbeit: Kinematik + Radioaktivität"
 Lz_3_Jahrgang = 9
-Lz_3_Rechte = "root, "
-Lz_3_Seitenanzahl = 0
-Lz_3_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_3_Rechte = "root, 01, 02, 13, 14, 10, 11, 05, 15, 12, 07, 16, 03, 04, 09"
+Lz_3_Seitenanzahl = 7
+Lz_3_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/05 - Physik/09 2. Hj. - Arbeit - Kinematik + Radioaktivität.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_2_Fach = ""
+Lz_2_Fach = "Bio Arbeit: Evolutionstheorie + Tarnen + Variabilität"
 Lz_2_Jahrgang = 9
-Lz_2_Rechte = "root, "
-Lz_2_Seitenanzahl = 0
-Lz_2_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_2_Rechte = "root, 03, 04, 02, 10, 11, 12, 09"
+Lz_2_Seitenanzahl = 3
+Lz_2_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/07 - Bio/09 1. Hj. - Arbeit - Evolutionstheorie + Tarnen + Variabilität.js"></script>`
 
 
 ///////////////////
