@@ -551,7 +551,7 @@ Lz_4_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/"></scrip
 
 
 Lz_3_Fach = "Bio Arbeit"
-Lz_3_Rechte = "01, 03, "
+Lz_3_Rechte = "01, 02, 03, "
 Lz_3_Seitenanzahl = 7
 Lz_3_URL = `<script src="https://lernzettel-rechte.netlify.app/Lz_3.js"></script>`
 
