@@ -28,11 +28,11 @@ Guthaben_27 = "0 €" /*Isabel K.*/
 Guthaben_28 = "0 €" /*Ilsi*/
 Guthaben_29 = "0 €" /*Rayyan*/
 Guthaben_30 = "0 €" /*Charlotte*/
-Guthaben_31 = "0 €" /**/
-Guthaben_32 = "0 €" /**/
-Guthaben_33 = "0 €" /**/
-Guthaben_34 = "0 €" /**/
-Guthaben_35 = "0 €" /**/
+Guthaben_31 /**/ = "0 €"
+Guthaben_32 /**/ = "0 €"
+Guthaben_33 /**/ = "0 €"
+Guthaben_34 /**/ = "0 €"
+Guthaben_35 /**/ = "0 €"
 
 
 
