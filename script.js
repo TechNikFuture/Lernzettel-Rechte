@@ -35,6 +35,7 @@ Guthaben_34 = "0 €" /**/
 Guthaben_35 = "0 €" /**/
 
 
+Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/10 - Geschichte/08 1. Hj. - Arbeit - Industrialisierung.js"></script>`
 
 
 
@@ -584,7 +585,6 @@ Lz_1_Fach = "Geschichte Industrialisierung"
 Lz_1_Jahrgang = 8
 Lz_1_Rechte = "root, 03, 04, 05, 06, 07, 02"
 Lz_1_Seitenanzahl = 5
-Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/10 - Geschichte/08 1. Hj. - Arbeit - Industrialisierung.js"></script>`
 
 
 ///////////////////
