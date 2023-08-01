@@ -561,7 +561,7 @@ Lz_3_URL = `<script src="https://lernzettel-rechte.netlify.app/Lz_3.js"></script
 
 
 Lz_2_Fach = "Musik Arbeit"
-Lz_2_Rechte = "01, 02, 03, "
+Lz_2_Rechte = "01, 03, "
 Lz_2_Seitenanzahl = 4
 Lz_2_URL = `<script src="https://lernzettel-rechte.netlify.app/Lz_2.js"></script>`
 
