@@ -24,8 +24,8 @@ Fach_3_Seitenanzahl = 7
 
 
 
-Guthaben_1 = "0,5 €"
-Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10"
+Guthaben_1 /*Ivan*/ = "0,5 €"
+Guthaben_2 /*Felix*/ = "All Inclusive für <br> 1. Hj. Klasse 10"
 Guthaben_3 = "1,5 €"
 
 
