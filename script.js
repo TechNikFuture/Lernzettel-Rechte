@@ -26,7 +26,24 @@ Fach_3_Seitenanzahl = 7
 
 Guthaben_1 /*Ivan*/ = "0,5 €"
 Guthaben_2 /*Felix*/ = "All Inclusive für <br> 1. Hj. Klasse 10"
-Guthaben_3 = "1,5 €"
+Guthaben_3 /**/ = "0 €"
+Guthaben_4 /**/ = "0 €"
+Guthaben_5 /**/ = "0 €"
+Guthaben_6 /**/ = "0 €"
+Guthaben_7 /**/ = "0 €"
+Guthaben_8 /**/ = "0 €"
+Guthaben_9 /**/ = "0 €"
+Guthaben_10 /**/ = "0 €"
+Guthaben_11 /**/ = "0 €"
+Guthaben_12 /**/ = "0 €"
+Guthaben_13 /**/ = "0 €"
+Guthaben_14 /**/ = "0 €"
+Guthaben_15 /**/ = "0 €"
+Guthaben_16 /**/ = "0 €"
+Guthaben_17 /**/ = "0 €"
+Guthaben_18 /**/ = "0 €"
+Guthaben_19 /**/ = "0 €"
+Guthaben_20 /**/ = "0 €"
 
 
 Fach_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fach_1.js"></script>`
