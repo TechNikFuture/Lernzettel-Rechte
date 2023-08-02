@@ -516,7 +516,7 @@ Lz_8_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/11 - Erdk
 
 Lz_7_Fach = "Mathe Arbeit: Parabeln"
 Lz_7_Jahrgang = 9
-Lz_7_Rechte = "root, 02, 03, 13, 04, 19, 12"
+Lz_7_Rechte = "root, 01, 02, 03, 13, 04, 19, 12"
 Lz_7_Seitenanzahl = 4
 Lz_7_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/02 - Mathe/09 1. Hj. - Arbeit - Parabeln.js"></script>`
 
