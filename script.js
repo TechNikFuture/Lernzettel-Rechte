@@ -437,99 +437,99 @@ Lz_15_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 ///////////////////
 
 
-Lz_14_Fach = ""
+Lz_14_Fach = "Kunst Arbeit: Porträtanalyse"
 Lz_14_Jahrgang = 9
-Lz_14_Rechte = "root, "
-Lz_14_Seitenanzahl = 0
-Lz_14_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_14_Rechte = "root, 01, 15, 02, 13, 29, 22, 03, 30, 16, 17, 28"
+Lz_14_Seitenanzahl = 2
+Lz_14_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/04 - Kunst/09 2. Hj. - Porträtanalyse.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_13_Fach = ""
+Lz_13_Fach = "Politik Arbeit: Amazon + Startups"
 Lz_13_Jahrgang = 9
-Lz_13_Rechte = "root, "
-Lz_13_Seitenanzahl = 0
-Lz_13_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_13_Rechte = "root, 04, 27, 16, 02, 12, 03, 10, 07, 28, 14, 15"
+Lz_13_Seitenanzahl = 3
+Lz_13_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/03 - Politik/09 2. Hj. - Arbeit - Amazon + Startups.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_12_Fach = ""
+Lz_12_Fach = "Chemie Arbeit: Atom + Elektronenkonfig. + Gleichungen"
 Lz_12_Jahrgang = 9
-Lz_12_Rechte = "root, "
-Lz_12_Seitenanzahl = 0
-Lz_12_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_12_Rechte = "root, 27, 02, 12, 07, 04, 14"
+Lz_12_Seitenanzahl = 5
+Lz_12_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/06 - Chemie/09 2. Hj. - Arbeit - Atom + Elektronenkonfig. + Gleichungen.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_11_Fach = ""
+Lz_11_Fach = "Bio Arbeit: Auge + Ohr + Bakterien und Viren"
 Lz_11_Jahrgang = 9
-Lz_11_Rechte = "root, "
-Lz_11_Seitenanzahl = 0
-Lz_11_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_11_Rechte = "root, 12, 07, 08, 27, 14, 15, 02, 04"
+Lz_11_Seitenanzahl = 7
+Lz_11_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/07 - Bio/09 2. Hj. - Arbeit - Auge Komplett + Ohr + Bakterien und Viren.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_10_Fach = ""
+Lz_10_Fach = "Reli Arbeit: Buddhismus"
 Lz_10_Jahrgang = 9
-Lz_10_Rechte = "root, "
-Lz_10_Seitenanzahl = 0
-Lz_10_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_10_Rechte = "root, 02, 07, 01, 16"
+Lz_10_Seitenanzahl = 3
+Lz_10_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/09 - Reli/09 2. Hj. - Arbeit - Buddhismus.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_9_Fach = ""
+Lz_9_Fach = "Musik Arbeit: Epochen + Barock"
 Lz_9_Jahrgang = 9
-Lz_9_Rechte = "root, "
-Lz_9_Seitenanzahl = 0
-Lz_9_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_9_Rechte = "root, 26, 03, 02, 07"
+Lz_9_Seitenanzahl = 4
+Lz_9_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/08 - Musik/09 2. Hj. - Arbeit - Epochen + Barock.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_8_Fach = ""
+Lz_8_Fach = "Erdkunde Arbeit: Botswana"
 Lz_8_Jahrgang = 9
-Lz_8_Rechte = "root, "
-Lz_8_Seitenanzahl = 0
-Lz_8_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_8_Rechte = "root, 01, 02, 03, 16, 12, 03, 10, 07, 20, 21, 06, 04, 15, 14, 22, 23, 24, 25"
+Lz_8_Seitenanzahl = 8
+Lz_8_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/11 - Erdkunde/09 2. Hj. - Arbeit - Botswana.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_7_Fach = ""
+Lz_7_Fach = "Mathe Arbeit: Parabeln"
 Lz_7_Jahrgang = 9
-Lz_7_Rechte = "root, "
-Lz_7_Seitenanzahl = 0
-Lz_7_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_7_Rechte = "root, 02, 03, 13, 04, 19, 12"
+Lz_7_Seitenanzahl = 4
+Lz_7_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/02 - Mathe/09 1. Hj. - Arbeit - Parabeln.js"></script>`
 
 
 ///////////////////
 ///////////////////
 
 
-Lz_6_Fach = ""
+Lz_6_Fach = "Kunst Arbeit: Design Analyse"
 Lz_6_Jahrgang = 9
-Lz_6_Rechte = "root, "
-Lz_6_Seitenanzahl = 0
-Lz_6_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_6_Rechte = "root, 01, 02, 03, 10, 18"
+Lz_6_Seitenanzahl = 3
+Lz_6_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/04 - Kunst/09 1. Hj. - Arbeit - Design Analyse.js"></script>`
 
 
 ///////////////////
@@ -582,6 +582,6 @@ Lz_2_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/07 - Bio/
 
 Lz_1_Fach = "Geschichte Arbeit: Novemberrevolution bis Inflation 1923"
 Lz_1_Jahrgang = 9
-Lz_1_Rechte = "root, 02, 03, 04, 05, 07, 08, 09, "
+Lz_1_Rechte = "root, 02, 03, 04, 05, 07, 08, 09"
 Lz_1_Seitenanzahl = 7
 Lz_1_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/10 - Geschichte/09 1. Hj. - Arbeit - Novemberrevolution bis Inflation 1923.js"></script>`
