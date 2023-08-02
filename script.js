@@ -422,19 +422,9 @@ Lz_16_Seitenanzahl = 0
 Lz_16_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
-///////////////////
+/////////////////// Nr. 15 fehlt, da ich beim Rechte Übertragen einen Lz vergessen habe.
 ///////////////////
 
-
-Lz_15_Fach = ""
-Lz_15_Jahrgang = 9
-Lz_15_Rechte = "root, "
-Lz_15_Seitenanzahl = 0
-Lz_15_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
-
-
-///////////////////
-///////////////////
 
 
 Lz_14_Fach = "Kunst Arbeit: Porträtanalyse"
@@ -514,9 +504,20 @@ Lz_8_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/11 - Erdk
 ///////////////////
 
 
+Lz_15_Fach = "Mathe Arbeit: Parabeln + p, q - Formel + Gleichungssysteme"
+Lz_15_Jahrgang = 9
+Lz_15_Rechte = "root, 02, 03, 13, 04, 19, 12"
+Lz_15_Seitenanzahl = 9
+Lz_15_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/02 - Mathe/09 2. Hj. - Arbeit - Parabeln + p, q - Formel + Gleichungssysteme.js"></script>`
+
+
+///////////////////
+///////////////////
+
+
 Lz_7_Fach = "Mathe Arbeit: Parabeln"
 Lz_7_Jahrgang = 9
-Lz_7_Rechte = "root, 01, 02, 03, 13, 04, 19, 12"
+Lz_7_Rechte = "root, 01, 13, 14, 02, 09, 12, 04"
 Lz_7_Seitenanzahl = 4
 Lz_7_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/02 - Mathe/09 1. Hj. - Arbeit - Parabeln.js"></script>`
 
