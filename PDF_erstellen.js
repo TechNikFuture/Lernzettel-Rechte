@@ -31,17 +31,13 @@ var vollständiges_Datum = Datum + ", " + Uhrzeit
 
 console.log(vollständiges_Datum)
 
+Anzeigetext = Lernzettel_Nummer + " - " + vollständiges_Datum
 
 if (Lernzettel_Nummer == "root") {
   console.log("H")
   Anzeigetext = ""
 }
 
-
-
-
-
-Anzeigetext = Lernzettel_Nummer + " - " + vollständiges_Datum
 
 
 
