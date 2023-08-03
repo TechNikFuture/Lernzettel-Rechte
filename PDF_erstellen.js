@@ -32,7 +32,7 @@ var vollständiges_Datum = Datum + ", " + Uhrzeit
 console.log(vollständiges_Datum)
 
 
-if (Lernzettel_Nummer == true) {
+if (Lernzettel_Nummer == "root") {
   console.log("H")
   Anzeigetext = ""
 }
