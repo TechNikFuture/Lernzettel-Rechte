@@ -34,7 +34,6 @@ console.log(vollständiges_Datum)
 Anzeigetext = Lernzettel_Nummer + " - " + vollständiges_Datum
 
 if (Lernzettel_Nummer == "root") {
-  console.log("H")
   Anzeigetext = ""
 }
 
