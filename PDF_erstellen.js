@@ -40,7 +40,7 @@ if (root_access_confirmed == true) {
 
 
 
-
+Anzeigetext = Lernzettel_Nummer + " - " + vollständiges_Datum
 
 
 
@@ -53,35 +53,35 @@ var doc = new jsPDF();
 doc.setFontSize(9);
 doc.setTextColor(170, 170, 170);
 doc.addImage(imgData_1, 'JPEG', 0, 0, 209.7, 294.7);
-//doc.text(142, 20.5, Lernzettel_Nummer + " - " + vollständiges_Datum);
-//doc.text(138, 20.5, Lernzettel_Nummer + " - " + vollständiges_Datum);
-doc.text(breite_1_1,höhe_1_1, Lernzettel_Nummer + " - " + vollständiges_Datum);
-doc.text(75, 150, Lernzettel_Nummer + " - " + vollständiges_Datum);
+//doc.text(142, 20.5, Anzeigetext);
+//doc.text(138, 20.5, Anzeigetext);
+doc.text(breite_1_1,höhe_1_1, Anzeigetext);
+doc.text(75, 150, Anzeigetext);
 if (Seitenanzahl >= 2){
 doc.addPage()
 doc.addImage(imgData_2, 'JPEG', 0, 0, 209.7, 294.7);
-doc.text(breite_2_1,höhe_2_1, Lernzettel_Nummer + " - " + vollständiges_Datum);
-doc.text(breite_2_2,höhe_2_2, Lernzettel_Nummer + " - " + vollständiges_Datum);
+doc.text(breite_2_1,höhe_2_1, Anzeigetext);
+doc.text(breite_2_2,höhe_2_2, Anzeigetext);
 if (Seitenanzahl >= 3){
 doc.addPage()
 doc.addImage(imgData_3, 'JPEG', 0, 0, 209.7, 294.7);
-doc.text(breite_3_1,höhe_3_1, Lernzettel_Nummer + " - " + vollständiges_Datum);
-doc.text(breite_3_2,höhe_3_2, Lernzettel_Nummer + " - " + vollständiges_Datum);
+doc.text(breite_3_1,höhe_3_1, Anzeigetext);
+doc.text(breite_3_2,höhe_3_2, Anzeigetext);
 if (Seitenanzahl >= 4){
   doc.addPage()
   doc.addImage(imgData_4, 'JPEG', 0, 0, 209.7, 294.7);
-  doc.text(breite_4,höhe_4, Lernzettel_Nummer + " - " + vollständiges_Datum);
+  doc.text(breite_4,höhe_4, Anzeigetext);
   if (Seitenanzahl >= 5){
     doc.addPage()
     doc.addImage(imgData_5, 'JPEG', 0, 0, 209.7, 294.7);
     if (Seitenanzahl >= 6){
       doc.addPage()
       doc.addImage(imgData_6, 'JPEG', 0, 0, 209.7, 294.7);
-      doc.text(breite_6,höhe_6, Lernzettel_Nummer + " - " + vollständiges_Datum);
+      doc.text(breite_6,höhe_6, Anzeigetext);
       if (Seitenanzahl >= 7){
         doc.addPage()
         doc.addImage(imgData_7, 'JPEG', 0, 0, 209.7, 294.7);
-        doc.text(breite_7,höhe_7, Lernzettel_Nummer + " - " + vollständiges_Datum);
+        doc.text(breite_7,höhe_7, Anzeigetext);
         if (Seitenanzahl >= 8){
           doc.addPage()
           doc.addImage(imgData_8, 'JPEG', 0, 0, 209.7, 294.7);
