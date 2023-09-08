@@ -44,10 +44,10 @@ Guthaben_35 = "0 €" /**/
 
 
 
-Lz_16_Fach = ""
-Lz_16_Rechte = "root, "
-Lz_16_Seitenanzahl = 0
-Lz_16_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+Lz_16_Fach = "Chemie Test: Bindungen"
+Lz_16_Rechte = "root, 02, 07"
+Lz_16_Seitenanzahl = 3
+Lz_16_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/06 - Chemie/10 1. Hj. - Test - Bindungen.js"></script>`
 
 
 /////////////////// Nr. 15 fehlt, da ich beim Rechte Übertragen einen Lz vergessen habe.
