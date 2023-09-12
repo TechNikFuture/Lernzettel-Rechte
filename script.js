@@ -35,13 +35,18 @@ Guthaben_34 = "0 €" /**/
 Guthaben_35 = "0 €" /**/
 
 
-lo = "lol"
 
 
 
 
+Lz_17_Fach = "Deutsch Arbeit: Gedichtanalyse"
+Lz_17_Rechte = "root, Massi"
+Lz_17_Seitenanzahl = 0
+Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
+///////////////////
+///////////////////
 
 
 Lz_16_Fach = "Chemie Test: Bindungen"
@@ -560,11 +565,3 @@ Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 ///////////////////
 
 
-Lz_17_Fach = ""
-Lz_17_Rechte = "root, "
-Lz_17_Seitenanzahl = 0
-Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
-
-
-///////////////////
-///////////////////
