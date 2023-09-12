@@ -12,7 +12,7 @@ Guthaben_11 = "0 €" /*Noemie*/
 Guthaben_12 = "1,5 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
-Guthaben_15 = "0 €" /*Mika*/
+Guthaben_15 = "5,5 €" /*Mika*/
 Guthaben_16 = "0 €" /*Massi*/
 Guthaben_17 = "0 €" /*Naihmeh*/
 Guthaben_18 = "0 €" /*Amelie S.*/
@@ -45,7 +45,7 @@ lo = "lol"
 
 
 Lz_16_Fach = "Chemie Test: Bindungen"
-Lz_16_Rechte = "root, 02, 07"
+Lz_16_Rechte = "root, 02, 07, 15"
 Lz_16_Seitenanzahl = 3
 Lz_16_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/06 - Chemie/10 1. Hj. - Test - Bindungen.js"></script>`
 
