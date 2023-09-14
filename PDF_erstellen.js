@@ -52,7 +52,7 @@ doc.addImage(imgData_1, 'JPEG', 0, 0, 209.7, 294.7);
 //doc.text(142, 20.5, Anzeigetext);
 //doc.text(138, 20.5, Anzeigetext);
 doc.text(breite_1_1,höhe_1_1, Anzeigetext);
-doc.text(75, 150, Anzeigetext);
+doc.text(breite_1_2,höhe_1_2, Anzeigetext);
 if (Seitenanzahl >= 2){
 doc.addPage()
 doc.addImage(imgData_2, 'JPEG', 0, 0, 209.7, 294.7);
