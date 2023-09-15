@@ -39,7 +39,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_18_Fach = "Mathe Arbeit"
-Lz_18_Rechte = "root, "
+Lz_18_Rechte = "root, Binar"
 Lz_18_Seitenanzahl = 0
 Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
@@ -49,7 +49,7 @@ Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 Lz_17_Fach = "Deutsch Arbeit: Gedichtanalyse"
-Lz_17_Rechte = "root, 02, 07, 16, 01"
+Lz_17_Rechte = "root, 02, 07, 16, 01, 03"
 Lz_17_Seitenanzahl = 4
 Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deutsch/10 1. Hj. - Arbeit - Gedichtanalyse.js"></script>`
 
