@@ -1,4 +1,4 @@
-Guthaben_1 = "0,5 €" /*Ivan*/
+Guthaben_1 = "0 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
@@ -49,7 +49,7 @@ Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 Lz_17_Fach = "Deutsch Arbeit: Gedichtanalyse"
-Lz_17_Rechte = "root, 02, 07, 16"
+Lz_17_Rechte = "root, 02, 07, 16, 01"
 Lz_17_Seitenanzahl = 4
 Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deutsch/10 1. Hj. - Arbeit - Gedichtanalyse.js"></script>`
 
