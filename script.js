@@ -9,7 +9,7 @@ Guthaben_8 = "0 €" /*Tabasom*/
 Guthaben_9 = "-3 €" /*Janek*/
 Guthaben_10 = "0 €" /*Lotta*/
 Guthaben_11 = "0 €" /*Noemie*/
-Guthaben_12 = "1,5 €" /*Jan*/
+Guthaben_12 = "1 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
 Guthaben_15 = "5 €" /*Mika*/
@@ -49,7 +49,7 @@ Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 Lz_17_Fach = "Deutsch Arbeit: Gedichtanalyse"
-Lz_17_Rechte = "root, 02, 07, 16, 01, 03, 15"
+Lz_17_Rechte = "root, 02, 07, 16, 01, 03, 15, 12"
 Lz_17_Seitenanzahl = 4
 Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deutsch/10 1. Hj. - Arbeit - Gedichtanalyse.js"></script>`
 
