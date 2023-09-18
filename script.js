@@ -49,7 +49,7 @@ Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 Lz_17_Fach = "Deutsch Arbeit: Gedichtanalyse"
-Lz_17_Rechte = "root, 02, 07, 16, 01, 03, 15, 12"
+Lz_17_Rechte = "root, 02, 07, 16, 01, 03, 15, 12, 29"
 Lz_17_Seitenanzahl = 4
 Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deutsch/10 1. Hj. - Arbeit - Gedichtanalyse.js"></script>`
 
