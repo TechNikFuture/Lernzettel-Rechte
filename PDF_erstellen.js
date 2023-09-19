@@ -66,7 +66,7 @@ doc.text(breite_3_1,höhe_3_1, Anzeigetext);
 doc.text(breite_3_2,höhe_3_2, Anzeigetext);
 
 if (download_name == Lz_19_Fach + " Lernzettel.pdf"){
-  doc.text(150, 150, "Gutes Video zu Aussprache + Generell: https://youtu.be/hJzW717BgFI?si=U-UULiDhJAOlSL8i");
+  doc.text(150, 150, '<a href="https://youtu.be/hJzW717BgFI?si=U-UULiDhJAOlSL8i">Gutes Video zu Aussprache + Generell</a>');
 }
 
 if (Seitenanzahl >= 4){
