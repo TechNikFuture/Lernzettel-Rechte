@@ -1,4 +1,4 @@
-Guthaben_1 = "0,5 €" /*Ivan*/
+Guthaben_1 = "0 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
@@ -9,10 +9,10 @@ Guthaben_8 = "0 €" /*Tabasom*/
 Guthaben_9 = "-3 €" /*Janek*/
 Guthaben_10 = "0 €" /*Lotta*/
 Guthaben_11 = "0 €" /*Noemie*/
-Guthaben_12 = "1,5 €" /*Jan*/
+Guthaben_12 = "1 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
-Guthaben_15 = "5,5 €" /*Mika*/
+Guthaben_15 = "5 €" /*Mika*/
 Guthaben_16 = "0 €" /*Massi*/
 Guthaben_17 = "0 €" /*Naihmeh*/
 Guthaben_18 = "0 €" /*Amelie S.*/
@@ -28,7 +28,7 @@ Guthaben_27 = "0 €" /*Isabel K.*/
 Guthaben_28 = "0 €" /*Ilsi*/
 Guthaben_29 = "0 €" /*Rayyan*/
 Guthaben_30 = "0 €" /*Charlotte*/
-Guthaben_31 = "0 €" /**/
+Guthaben_31 = "0 €" /*Basti*/
 Guthaben_32 = "0 €" /**/
 Guthaben_33 = "0 €" /**/
 Guthaben_34 = "0 €" /**/
@@ -40,8 +40,8 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_19_Fach = "Englisch Sprechprüfung"
-Lz_19_Rechte = "root, "
-Lz_19_Seitenanzahl = 0
+Lz_19_Rechte = "root, 31, 29, 22"
+Lz_19_Seitenanzahl = 8
 Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Englisch/10 1. Hj. - Sprechprüfung.js"></script>`
 
 
@@ -50,7 +50,7 @@ Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Eng
 
 
 Lz_18_Fach = "Mathe Arbeit"
-Lz_18_Rechte = "root, "
+Lz_18_Rechte = "root, Binar, Rayyan, Lucas"
 Lz_18_Seitenanzahl = 0
 Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
@@ -60,7 +60,7 @@ Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 Lz_17_Fach = "Deutsch Arbeit: Gedichtanalyse"
-Lz_17_Rechte = "root, 02, 07, 16"
+Lz_17_Rechte = "root, 02, 07, 16, 01, 03, 15, 12, 29, 22, 31"
 Lz_17_Seitenanzahl = 4
 Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deutsch/10 1. Hj. - Arbeit - Gedichtanalyse.js"></script>`
 
