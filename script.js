@@ -38,6 +38,17 @@ Guthaben_35 = "0 €" /**/
 
 
 
+
+Lz_19_Fach = "Englisch Sprechprüfung"
+Lz_19_Rechte = "root, "
+Lz_19_Seitenanzahl = 0
+Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Englisch/10 1. Hj. - Sprechprüfung.js"></script>`
+
+
+///////////////////
+///////////////////
+
+
 Lz_18_Fach = "Mathe Arbeit"
 Lz_18_Rechte = "root, "
 Lz_18_Seitenanzahl = 0
@@ -552,15 +563,3 @@ Lz_20_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 ///////////////////
 ///////////////////
-
-
-Lz_19_Fach = ""
-Lz_19_Rechte = "root, "
-Lz_19_Seitenanzahl = 0
-Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
-
-
-///////////////////
-///////////////////
-
-
