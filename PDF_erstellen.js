@@ -65,7 +65,7 @@ doc.addImage(imgData_3, 'JPEG', 0, 0, 209.7, 294.7);
 doc.text(breite_3_1,höhe_3_1, Anzeigetext);
 doc.text(breite_3_2,höhe_3_2, Anzeigetext);
 
-if (Lz_19_Fach == "Englisch Sprechprüfung"){
+if (download_name == Lz_19_Fach + " Lernzettel.pdf"){
   doc.text(150, 150, "Gutes Video zu Aussprache + Generell: https://youtu.be/hJzW717BgFI?si=U-UULiDhJAOlSL8i");
 }
 
