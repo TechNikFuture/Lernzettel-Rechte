@@ -68,7 +68,7 @@ doc.text(breite_3_2,höhe_3_2, Anzeigetext);
 if (download_name == Lz_19_Fach + " Lernzettel.pdf"){
   doc.setFontSize(11);
   doc.setTextColor(0, 0, 0);
-  doc.text(32.5, 124, "Gutes Video zu Aussprache + Generell: shorturl.at/ehjFS");
+  doc.text(32.5, 122.5, "Gutes Video zu Aussprache + Generell: https://shorturl.at/ehjFS");
   doc.setFontSize(9);
   doc.setTextColor(170, 170, 170);
 }
