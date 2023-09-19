@@ -36,8 +36,8 @@ Guthaben_35 = "0 €" /**/
 
 
 
-
-// Englisch: Rayyan, Lucas
+// Deutsch: Basti
+// Englisch: Rayyan, Lucas, Basti
 Lz_18_Fach = "Mathe Arbeit"
 Lz_18_Rechte = "root, Binar, Rayyan, Lucas"
 Lz_18_Seitenanzahl = 0
