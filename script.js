@@ -40,7 +40,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_19_Fach = "Englisch Sprechprüfung"
-Lz_19_Rechte = "root, 31, 29, 22"
+Lz_19_Rechte = "root, 01, 31, 29, 22"
 Lz_19_Seitenanzahl = 8
 Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Englisch/10 1. Hj. - Sprechprüfung.js"></script>`
 
