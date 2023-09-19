@@ -58,11 +58,17 @@ doc.addPage()
 doc.addImage(imgData_2, 'JPEG', 0, 0, 209.7, 294.7);
 doc.text(breite_2_1,höhe_2_1, Anzeigetext);
 doc.text(breite_2_2,höhe_2_2, Anzeigetext);
+
 if (Seitenanzahl >= 3){
 doc.addPage()
 doc.addImage(imgData_3, 'JPEG', 0, 0, 209.7, 294.7);
 doc.text(breite_3_1,höhe_3_1, Anzeigetext);
 doc.text(breite_3_2,höhe_3_2, Anzeigetext);
+
+if (Lz_19_Fach == "Englisch Sprechprüfung"){
+  doc.text(150, 150, "Gutes Video zu Aussprache + Generell: https://youtu.be/hJzW717BgFI?si=U-UULiDhJAOlSL8i");
+}
+
 if (Seitenanzahl >= 4){
   doc.addPage()
   doc.addImage(imgData_4, 'JPEG', 0, 0, 209.7, 294.7);
