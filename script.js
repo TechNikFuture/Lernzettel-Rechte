@@ -40,7 +40,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_19_Fach = "Englisch Sprechprüfung"
-Lz_19_Rechte = "root, 31, 29, 22, 02, 07"
+Lz_19_Rechte = "root, 01, 31, 29, 22, 02, 07"
 Lz_19_Seitenanzahl = 8
 Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Englisch/10 1. Hj. - Sprechprüfung.js"></script>`
 
@@ -60,7 +60,7 @@ Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 Lz_17_Fach = "Deutsch Arbeit: Gedichtanalyse"
-Lz_17_Rechte = "root, 07, 16, 03, 15, 12, 29, 22, 31"
+Lz_17_Rechte = "root, 02, 07, 16, 01, 03, 15, 12, 29, 22, 31"
 Lz_17_Seitenanzahl = 4
 Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deutsch/10 1. Hj. - Arbeit - Gedichtanalyse.js"></script>`
 
