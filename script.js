@@ -9,7 +9,7 @@ Guthaben_8 = "0 €" /*Tabasom*/
 Guthaben_9 = "-3 €" /*Janek*/
 Guthaben_10 = "0 €" /*Lotta*/
 Guthaben_11 = "0 €" /*Noemie*/
-Guthaben_12 = "1 €" /*Jan*/
+Guthaben_12 = "0,5 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
 Guthaben_15 = "5 €" /*Mika*/
@@ -40,7 +40,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_19_Fach = "Englisch Sprechprüfung"
-Lz_19_Rechte = "root, 01, 31, 29, 22, 02, 07"
+Lz_19_Rechte = "root, 01, 31, 29, 22, 02, 07, 12"
 Lz_19_Seitenanzahl = 8
 Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Englisch/10 1. Hj. - Sprechprüfung.js"></script>`
 
