@@ -71,7 +71,7 @@ Lz_17_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/01 - Deu
 
 Lz_16_Fach = "Chemie Test: Bindungen"
 Lz_16_Rechte = "root, 02, 07, 15"
-Lz_16_Seitenanzahl = 3
+Lz_16_Seitenanzahl = 5
 Lz_16_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/06 - Chemie/10 1. Hj. - Test - Bindungen.js"></script>`
 
 
