@@ -1,3 +1,4 @@
+content_geladen = 0
 
 
 var Tage = new Date().getDate() ;
@@ -105,3 +106,4 @@ if (Seitenanzahl >= 4){
 
 
 
+content_geladen = 1
