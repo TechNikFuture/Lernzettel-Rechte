@@ -9,7 +9,7 @@ Guthaben_8 = "0 €" /*Tabasom*/
 Guthaben_9 = "-3 €" /*Janek*/
 Guthaben_10 = "0 €" /*Lotta*/
 Guthaben_11 = "0 €" /*Noemie*/
-Guthaben_12 = "0,5 €" /*Jan*/
+Guthaben_12 = "1,5 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
 Guthaben_15 = "5 €" /*Mika*/
@@ -50,7 +50,7 @@ Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Eng
 
 
 Lz_18_Fach = "Mathe Arbeit"
-Lz_18_Rechte = "root, Binar, Rayyan, Lucas, Felix, Marlene"
+Lz_18_Rechte = "root, Binar, Rayyan, Lucas, Felix, Marlene, Jan"
 Lz_18_Seitenanzahl = 0
 Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
