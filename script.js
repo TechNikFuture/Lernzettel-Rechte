@@ -50,7 +50,7 @@ Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Eng
 
 
 Lz_18_Fach = "Mathe Arbeit"
-Lz_18_Rechte = "root, Binar, Rayyan, Lucas, Felix, Marlene, Jan"
+Lz_18_Rechte = "root, Binar, Rayyan, Lucas, Felix, Marlene, Jan, Mika"
 Lz_18_Seitenanzahl = 0
 Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
