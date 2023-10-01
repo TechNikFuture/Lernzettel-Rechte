@@ -7,12 +7,12 @@ Guthaben_6 = "0 €" /*Luca*/
 Guthaben_7 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Marlene*/
 Guthaben_8 = "0 €" /*Tabasom*/
 Guthaben_9 = "-3 €" /*Janek*/
-Guthaben_10 = "0 €" /*Lotta*/
-Guthaben_11 = "0 €" /*Noemie*/
-Guthaben_12 = "0,5 €" /*Jan*/
+Guthaben_10 = "-0,7 €" /*Lotta*/
+Guthaben_11 = "-0,7 €" /*Noemie*/
+Guthaben_12 = "1,5 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
-Guthaben_15 = "5 €" /*Mika*/
+Guthaben_15 = "4 €" /*Mika*/
 Guthaben_16 = "0 €" /*Massi*/
 Guthaben_17 = "0 €" /*Naihmeh*/
 Guthaben_18 = "0 €" /*Amelie S.*/
@@ -24,7 +24,7 @@ Guthaben_23 = "0 €" /*Yara*/
 Guthaben_24 = "0 €" /*Niki*/
 Guthaben_25 = "0 €" /*Hoffi*/
 Guthaben_26 = "0 €" /*Moritz*/
-Guthaben_27 = "0 €" /*Isabel K.*/
+Guthaben_27 = "-0,7 €" /*Isabel K.*/
 Guthaben_28 = "0 €" /*Ilsi*/
 Guthaben_29 = "0 €" /*Rayyan*/
 Guthaben_30 = "0 €" /*Charlotte*/
@@ -50,7 +50,7 @@ Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Eng
 
 
 Lz_18_Fach = "Mathe Arbeit"
-Lz_18_Rechte = "root, Binar, Rayyan, Lucas, Felix, Marlene"
+Lz_18_Rechte = "root, Binar, Rayyan, Lucas, Felix, Marlene, Jan, Mika"
 Lz_18_Seitenanzahl = 0
 Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
