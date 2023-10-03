@@ -50,7 +50,7 @@ Lz_19_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/13 - Eng
 
 
 Lz_18_Fach = "Mathe Arbeit"
-Lz_18_Rechte = "root, 02, 03, 29, 22, 07, 12, 15"
+Lz_18_Rechte = "root, 02, 03, 29, 22, 07, 12, 15, 04"
 Lz_18_Seitenanzahl = 8
 Lz_18_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/02 - Mathe/10 1. Hj. - Arbeit - sin, cos, tan.js"></script>`
 
