@@ -1,4 +1,4 @@
-Guthaben_1 = "0 €" /*Ivan*/
+Guthaben_1 = "6 € (5 € Schulden)" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "-1 €" /*Amelie B.*/
@@ -36,7 +36,14 @@ Guthaben_35 = "0 €" /**/
 
 
 
+Lz_20_Fach = "Geschichte Arbeit: NSDAP"
+Lz_20_Rechte = "root, Felix, Marlene, Ivan"
+Lz_20_Seitenanzahl = 0
+Lz_20_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
+
+///////////////////
+///////////////////
 
 
 Lz_19_Fach = "Englisch Sprechprüfung"
@@ -549,16 +556,6 @@ Lz_21_Fach = ""
 Lz_21_Rechte = "root, "
 Lz_21_Seitenanzahl = 0
 Lz_21_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
-
-
-///////////////////
-///////////////////
-
-
-Lz_20_Fach = ""
-Lz_20_Rechte = "root, "
-Lz_20_Seitenanzahl = 0
-Lz_20_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 ///////////////////
