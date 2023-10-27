@@ -37,7 +37,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_20_Fach = "Geschichte Arbeit: NSDAP"
-Lz_20_Rechte = "root, Felix, Marlene, Ivan (noch nicht abgezogen)"
+Lz_20_Rechte = "root, Felix, Marlene, Ivan"
 Lz_20_Seitenanzahl = 0
 Lz_20_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
