@@ -37,7 +37,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_20_Fach = "Geschichte Arbeit: NSDAP"
-Lz_20_Rechte = "root, 02, 07, 01, 03, 29, 15, 22"
+Lz_20_Rechte = "root, 02, 07, 01, 03, 29, 15, 22, 14"
 Lz_20_Seitenanzahl = 3
 Lz_20_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/10 - Geschichte/10 1. Hj. - Arbeit - NSDAP.js"></script>`
 
