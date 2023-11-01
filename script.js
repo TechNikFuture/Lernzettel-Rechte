@@ -13,7 +13,7 @@ Guthaben_12 = "1,5 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
 Guthaben_15 = "2,5 €" /*Mika*/
-Guthaben_16 = "0 €" /*Massi*/
+Guthaben_16 = "-1 €" /*Massi*/
 Guthaben_17 = "0 €" /*Naihmeh*/
 Guthaben_18 = "0 €" /*Amelie S.*/
 Guthaben_19 = "0 €" /*Pauline*/
@@ -37,7 +37,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_20_Fach = "Geschichte Arbeit: NSDAP"
-Lz_20_Rechte = "root, 02, 07, 01, 03, 29, 15, 22, 14"
+Lz_20_Rechte = "root, 02, 07, 01, 03, 29, 15, 22, 14, 16"
 Lz_20_Seitenanzahl = 3
 Lz_20_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/10 - Geschichte/10 1. Hj. - Arbeit - NSDAP.js"></script>`
 
