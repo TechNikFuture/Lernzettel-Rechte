@@ -1,6 +1,6 @@
 Guthaben_1 = "5,5 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
-Guthaben_3 = "0 €" /*Binar*/
+Guthaben_3 = "-1 €" /*Binar*/
 Guthaben_4 = "-2 €" /*Amelie B.*/
 Guthaben_5 = "0 €" /*Benita*/
 Guthaben_6 = "0 €" /*Luca*/
@@ -19,13 +19,13 @@ Guthaben_18 = "0 €" /*Amelie S.*/
 Guthaben_19 = "0 €" /*Pauline*/
 Guthaben_20 = "0 €" /*Selin*/
 Guthaben_21 = "0 €" /*Elsa*/
-Guthaben_22 = "-1 €" /*Lucas S.*/
+Guthaben_22 = "0 €" /*Lucas S.*/
 Guthaben_23 = "0 €" /*Yara*/
 Guthaben_24 = "0 €" /*Niki*/
 Guthaben_25 = "0 €" /*Hoffi*/
 Guthaben_26 = "0 €" /*Moritz*/
 Guthaben_27 = "-0,7 €" /*Isabel K.*/
-Guthaben_28 = "0 €" /*Ilsi*/
+Guthaben_28 = "-1 €" /*Ilsi*/
 Guthaben_29 = "0 €" /*Rayyan*/
 Guthaben_30 = "0 €" /*Charlotte*/
 Guthaben_31 = "0 €" /*Basti*/
@@ -37,7 +37,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_20_Fach = "Geschichte Arbeit: NSDAP"
-Lz_20_Rechte = "root, 02, 07, 01, 03, 29, 15, 22, 14, 16, 04"
+Lz_20_Rechte = "root, 02, 07, 01, 03, 29, 15, 22, 14, 16, 04, 28"
 Lz_20_Seitenanzahl = 3
 Lz_20_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/10 - Geschichte/10 1. Hj. - Arbeit - NSDAP.js"></script>`
 
