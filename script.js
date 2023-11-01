@@ -1,4 +1,4 @@
-Guthaben_1 = "5,5 € (5 € Schulden)" /*Ivan*/
+Guthaben_1 = "5,5 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "-1 €" /*Amelie B.*/
