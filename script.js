@@ -36,6 +36,16 @@ Guthaben_35 = "0 €" /**/
 
 
 
+Lz_21_Fach = "Informatik Arbeit"
+Lz_21_Rechte = "root, "
+Lz_21_Seitenanzahl = 2
+Lz_21_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
+
+
+///////////////////
+///////////////////
+
+
 Lz_20_Fach = "Geschichte Arbeit: NSDAP"
 Lz_20_Rechte = "root, 02, 07, 01, 03, 29, 15, 22, 14, 16, 04, 28"
 Lz_20_Seitenanzahl = 3
@@ -546,16 +556,6 @@ Lz_22_Fach = ""
 Lz_22_Rechte = "root, "
 Lz_22_Seitenanzahl = 0
 Lz_22_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
-
-
-///////////////////
-///////////////////
-
-
-Lz_21_Fach = ""
-Lz_21_Rechte = "root, "
-Lz_21_Seitenanzahl = 0
-Lz_21_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 ///////////////////
