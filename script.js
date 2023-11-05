@@ -1,4 +1,4 @@
-Guthaben_1 = "5,5 €" /*Ivan*/
+Guthaben_1 = "4,5 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
 Guthaben_3 = "-2 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
@@ -37,7 +37,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_21_Fach = "Informatik Arbeit"
-Lz_21_Rechte = "root, 02, 07, 28, 03, 21"
+Lz_21_Rechte = "root, 02, 07, 28, 03, 21, 01, "
 Lz_21_Seitenanzahl = 2
 Lz_21_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/14 - Informatik/10 1. Hj.  - Scratch + Calliope.js"></script>`
 
