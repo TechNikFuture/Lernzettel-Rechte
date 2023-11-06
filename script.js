@@ -1,6 +1,6 @@
 Guthaben_1 = "4,5 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
-Guthaben_3 = "-2 €" /*Binar*/
+Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
 Guthaben_5 = "0 €" /*Benita*/
 Guthaben_6 = "0 €" /*Luca*/
