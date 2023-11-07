@@ -12,7 +12,7 @@ Guthaben_11 = "-0,7 €" /*Noemie*/
 Guthaben_12 = "1,5 €" /*Jan*/
 Guthaben_13 = "0 €" /*Clemens*/
 Guthaben_14 = "0 €" /*Marnie*/
-Guthaben_15 = "2,5 €" /*Mika*/
+Guthaben_15 = "1,5 €" /*Mika*/
 Guthaben_16 = "-1 €" /*Massi*/
 Guthaben_17 = "0 €" /*Naihmeh*/
 Guthaben_18 = "0 €" /*Amelie S.*/
@@ -37,7 +37,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_21_Fach = "Informatik Arbeit"
-Lz_21_Rechte = "root, 02, 07, 28, 03, 21, 01, "
+Lz_21_Rechte = "root, 02, 07, 28, 03, 21, 01, 15, "
 Lz_21_Seitenanzahl = 2
 Lz_21_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/14 - Informatik/10 1. Hj.  - Scratch + Calliope.js"></script>`
 
