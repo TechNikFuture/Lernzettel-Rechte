@@ -1,4 +1,4 @@
-Guthaben_1 = "4 €" /*Ivan*/
+Guthaben_1 = "3,3 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
