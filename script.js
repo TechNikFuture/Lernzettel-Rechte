@@ -37,7 +37,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_21_Fach = "Informatik Arbeit"
-Lz_21_Rechte = "root, 02, 07, 28, 03, 21, 01, 15, 16, 04, "
+Lz_21_Rechte = "root, 02, 07, 28, 03, 21, 01, 15, 16, 04, 26"
 Lz_21_Seitenanzahl = 2
 Lz_21_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/14 - Informatik/10 1. Hj.  - Scratch + Calliope.js"></script>`
 
