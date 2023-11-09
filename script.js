@@ -1,7 +1,7 @@
 Guthaben_1 = "3,3 €" /*Ivan*/
 Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
-Guthaben_4 = "-1 €" /*Amelie B.*/
+Guthaben_4 = "0 €" /*Amelie B.*/
 Guthaben_5 = "0 €" /*Benita*/
 Guthaben_6 = "0 €" /*Luca*/
 Guthaben_7 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Marlene*/
@@ -18,7 +18,7 @@ Guthaben_17 = "0 €" /*Naihmeh*/
 Guthaben_18 = "0 €" /*Amelie S.*/
 Guthaben_19 = "0 €" /*Pauline*/
 Guthaben_20 = "0 €" /*Selin*/
-Guthaben_21 = "-1 €" /*Elsa*/
+Guthaben_21 = "0 €" /*Elsa*/
 Guthaben_22 = "0 €" /*Lucas S.*/
 Guthaben_23 = "0 €" /*Yara*/
 Guthaben_24 = "0 €" /*Niki*/
