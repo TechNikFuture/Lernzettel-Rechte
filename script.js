@@ -1,10 +1,10 @@
 Guthaben_1 = "3,3 €" /*Ivan*/
-Guthaben_2 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Felix*/
+Guthaben_2 = "10 €" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
 Guthaben_5 = "0 €" /*Benita*/
 Guthaben_6 = "0 €" /*Luca*/
-Guthaben_7 = "All Inclusive für <br> 1. Hj. Klasse 10" /*Marlene*/
+Guthaben_7 = "10 €" /*Marlene*/
 Guthaben_8 = "0 €" /*Tabasom*/
 Guthaben_9 = "0 €" /*Janek*/
 Guthaben_10 = "0 €" /*Lotta*/
@@ -35,6 +35,16 @@ Guthaben_34 = "0 €" /**/
 Guthaben_35 = "0 €" /**/
 
 
+
+
+Lz_22_Fach = "Chemie Arbeit"
+Lz_22_Rechte = "root, 02, Marlene"
+Lz_22_Seitenanzahl = 10
+Lz_22_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/06 - Chemie/10 1. Hj. - Arbeit - Wasser.js"></script>`
+
+
+///////////////////
+///////////////////
 
 Lz_21_Fach = "Informatik Arbeit"
 Lz_21_Rechte = "root, 02, 07, 28, 03, 21, 01, 15, 16, 04, 26"
@@ -546,16 +556,6 @@ Lz_23_Fach = ""
 Lz_23_Rechte = "root, "
 Lz_23_Seitenanzahl = 0
 Lz_23_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
-
-
-///////////////////
-///////////////////
-
-
-Lz_22_Fach = ""
-Lz_22_Rechte = "root, "
-Lz_22_Seitenanzahl = 0
-Lz_22_URL = `<script src="https://lernzettel-rechte.netlify.app/"></script>`
 
 
 ///////////////////

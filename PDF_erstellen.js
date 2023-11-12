@@ -96,6 +96,11 @@ if (Seitenanzahl >= 4){
             doc.addPage()
             doc.addImage(imgData_9, 'JPEG', 0, 0, 209.7, 294.7);
           }
+          if (Seitenanzahl >= 10){
+            doc.addPage()
+            doc.addImage(imgData_10, 'JPEG', 0, 0, 209.7, 294.7);
+            doc.text(breite_10,höhe_10, Anzeigetext);
+          }
         }
       }
     }
