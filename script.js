@@ -1,4 +1,4 @@
-Guthaben_1 = "3,3 €" /*Ivan*/
+Guthaben_1 = "1,8 €" /*Ivan*/
 Guthaben_2 = "0 €" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
@@ -38,7 +38,7 @@ Guthaben_35 = "0 €" /**/
 
 
 Lz_22_Fach = "Chemie Arbeit"
-Lz_22_Rechte = "root, 02, 07, 12, 15, "
+Lz_22_Rechte = "root, 02, 07, 12, 15, 01"
 Lz_22_Seitenanzahl = 10
 Lz_22_URL = `<script src="https://lernzettel-rechte.netlify.app/Fächer/06 - Chemie/10 1. Hj. - Arbeit - Wasser.js"></script>`
 
