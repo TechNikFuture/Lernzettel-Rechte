@@ -1,5 +1,5 @@
 Guthaben_1 = "3,3 €" /*Ivan*/
-Guthaben_2 = "10 €" /*Felix*/
+Guthaben_2 = "0 €" /*Felix*/
 Guthaben_3 = "0 €" /*Binar*/
 Guthaben_4 = "0 €" /*Amelie B.*/
 Guthaben_5 = "0 €" /*Benita*/
